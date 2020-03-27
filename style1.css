@@ -1,0 +1,9 @@
+html,
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-image:url("https://www.google.com/search?q=code+images&rlz=1C1CHBF_enNP876NP876&sxsrf=ACYBGNRxGij10bQQr_qdIqoQ7x_YmsDJIg:1576064000090&tbm=isch&source=iu&ictx=1&fir=kISNwk4xJxV1YM%253A%252C8_kDh172SLbnPM%252C_&vet=1&usg=AI4_-kRwfPTw1UW3GYvyNhuZ1zv7UnXEMw&sa=X&ved=2ahUKEwjwg_n2v63mAhVOWysKHcHNCxsQ9QEwAHoECAgQLw#imgrc=vRssVpCLafJpNM:&vet=1";)
+  background-color:#cccccc ;
+}
